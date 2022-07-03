@@ -30,5 +30,5 @@
 *git branch branch_name* - создать ветку branch_name  
 *git branch -d branch_name* - удалить ветку branch_name  
 *git checkout branch_name* - перейти на ветку branch_name  
-*git merge branch_name* - влить ветку branch_name в текущую активную ветку 
+*git merge branch_name* - влить ветку branch_name в текущую активную ветку  
 Делаем конфликт  
