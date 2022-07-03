@@ -32,3 +32,5 @@
 *git checkout branch_name* - перейти на ветку branch_name  
 *git merge branch_name* - влить ветку branch_name в текущую активную ветку  
 Делаем конфликт  
+Тут конфликт  
+а здесь его нет  
